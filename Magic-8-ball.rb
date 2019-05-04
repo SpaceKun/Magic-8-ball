@@ -1,4 +1,7 @@
-#
+
+   puts "Привет, дорогой друг. Отвечаю на твой вопрос..."
+   puts ""
+
 answers = [
 
 	#Положительные:
@@ -32,5 +35,5 @@ answers = [
      "Outlook not so good (Перспективы не очень хорошие)",
      "Very doubtful (Весьма сомнительно)"
  ]
-
      puts answers.sample
+     puts ""
